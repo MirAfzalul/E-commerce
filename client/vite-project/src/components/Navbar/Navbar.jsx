@@ -2,7 +2,14 @@
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <div className="navbar">
+        <div className="wrapper">
+            <div className="left"></div>
+            <div className="center"></div>
+            <div className="right"></div>   
+        </div>
+           
+    </div>
   )
 }
 
