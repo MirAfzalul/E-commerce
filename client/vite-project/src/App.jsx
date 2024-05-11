@@ -1,5 +1,5 @@
 
-import './App.css'
+import './app.scss'
 // import * as ReactDOM from "react-dom/vite-project/client";
 import {
   createBrowserRouter,
