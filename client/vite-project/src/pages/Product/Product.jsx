@@ -1,4 +1,4 @@
-
+import "./Product.scss"
 
 const Product = () => {
   return (
